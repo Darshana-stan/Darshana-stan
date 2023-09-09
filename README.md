@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fu n fact: ...
 -->
 I'm studying in siba campus
-I love Eminem
+I love Axl Rose
